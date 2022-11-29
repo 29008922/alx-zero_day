@@ -1,1 +1,1 @@
-axl is so cool
+updated reamdme on github
